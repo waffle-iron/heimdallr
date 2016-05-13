@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/aliasfalse/heimdallr.png?label=ready&title=Ready)](https://waffle.io/aliasfalse/heimdallr)
 #Heimdallr
 ##The Discord Gatekeeper
 
